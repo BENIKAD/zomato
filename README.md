@@ -1,6 +1,6 @@
 # This is my zomato landing page from tutor Rohan 
 
-##devTown
+# devTown
 
 ## Done with first commit
 
